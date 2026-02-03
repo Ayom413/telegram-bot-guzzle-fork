@@ -1,5 +1,5 @@
 {
-  "name": "Ayom/telegram-bot-guzzle-fork",
+  "name": "ayom/telegram-bot-guzzle-fork",
   "type": "library",
   "description": "PHP Telegram Bot",
   "keywords": ["telegram", "bot", "client"],
@@ -18,5 +18,6 @@
     }
   }
 }
+
 
 
